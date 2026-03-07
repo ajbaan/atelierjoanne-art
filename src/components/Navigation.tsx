@@ -17,13 +17,8 @@ const Navigation = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/90 backdrop-blur-sm border-b border-border">
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-        <Link to="/" className="flex flex-col leading-none group">
-          <span className="font-heading text-2xl md:text-3xl font-light tracking-wide text-foreground italic">
-            Atelier Joanne
-          </span>
-          <span className="font-body text-[9px] md:text-[10px] tracking-[0.35em] uppercase text-muted-foreground mt-0.5 group-hover:text-accent transition-colors duration-300">
-            Joanne Baan-Geluk
-          </span>
+        <Link to="/" className="font-heading text-2xl md:text-3xl font-light tracking-wide text-foreground italic">
+          Atelier Joanne
         </Link>
 
         {/* Desktop */}
