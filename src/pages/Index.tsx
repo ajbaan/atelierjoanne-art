@@ -13,9 +13,12 @@ const Index = () => {
           className="absolute inset-0 w-full h-full object-cover opacity-30"
         />
         <div className="relative z-10 text-center px-6 max-w-3xl">
-          <h1 className="font-heading text-5xl md:text-7xl font-light tracking-wide text-foreground mb-6">
+          <h1 className="font-heading text-5xl md:text-7xl font-light tracking-wide text-foreground mb-2 italic">
             Atelier Joanne
           </h1>
+          <p className="font-body text-xs md:text-sm tracking-[0.4em] uppercase text-muted-foreground mb-6">
+            Joanne Baan-Geluk
+          </p>
           <p className="font-body text-lg md:text-xl text-muted-foreground font-light leading-relaxed mb-10">
             Drawings & artwork by Joanne Baan
           </p>
