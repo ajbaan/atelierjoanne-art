@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import heroArt from "@/assets/hero-art.jpg";
-import portrait from "@/assets/artist-portrait.jpg";
+import portrait from "@/assets/joanne-portrait.jpg";
 
 const Index = () => {
   return (
