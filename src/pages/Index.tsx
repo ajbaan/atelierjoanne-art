@@ -50,7 +50,7 @@ const Index = () => {
               Joanne Baan-Geluk is moeder van twee kinderen, echtgenoot én psychosociaal hulpverlener. In haar werk als hulpverlener zet ze creatieve therapie in als krachtig middel om mensen te begeleiden en te ondersteunen.
             </p>
             <p className="font-body text-base text-muted-foreground leading-relaxed mb-8">
-              Naast haar werk in de hulpverlening maakt Joanne met veel passie illustraties — van persoonlijke portretten tot vrije kunstwerken. Creativiteit loopt als een rode draad door alles wat ze doet, zowel professioneel als in haar atelier.
+              Naast haar werk in de hulpverlening maakt Joanne met veel passie illustraties; van persoonlijke portretten tot vrije kunstwerken. Creativiteit loopt als een rode draad door alles wat ze doet, zowel professioneel als in haar atelier.
             </p>
             <Link
               to="/contact"
