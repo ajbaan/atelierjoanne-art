@@ -47,10 +47,10 @@ const Index = () => {
               Over Joanne
             </h2>
             <p className="font-body text-base text-muted-foreground leading-relaxed mb-4">
-              Joanne Baan is een creatieveling die zich richt op tekeningen en mixed-media werk. Vanuit haar atelier creëert ze kunstwerken die de schoonheid van het alledaagse vastleggen met een oog voor detail en emotie.
+              Joanne Baan-Geluk is moeder van twee kinderen, echtgenoot én psychosociaal hulpverlener. In haar werk als hulpverlener zet ze creatieve therapie in als krachtig middel om mensen te begeleiden en te ondersteunen.
             </p>
             <p className="font-body text-base text-muted-foreground leading-relaxed mb-8">
-              Met een achtergrond in de beeldende kunst combineert Joanne traditionele technieken met een eigentijdse blik. Elk werk vertelt een verhaal — soms subtiel, soms krachtig, maar altijd persoonlijk.
+              Naast haar werk in de hulpverlening maakt Joanne met veel passie illustraties — van persoonlijke portretten tot vrije kunstwerken. Creativiteit loopt als een rode draad door alles wat ze doet, zowel professioneel als in haar atelier.
             </p>
             <Link
               to="/contact"
