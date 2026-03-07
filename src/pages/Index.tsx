@@ -20,7 +20,7 @@ const Index = () => {
             Joanne Baan-Geluk
           </p>
           <p className="font-body text-lg md:text-xl text-muted-foreground font-light leading-relaxed mb-10">
-            Drawings & artwork by Joanne Baan
+            Illustraties door Joanne Baan
           </p>
           <Link
             to="/gallery"
