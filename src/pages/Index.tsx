@@ -44,7 +44,7 @@ const Index = () => {
               Over Joanne
             </h2>
             <p className="font-body text-base text-muted-foreground leading-relaxed mb-4">
-              Joanne Baan is een kunstenares die zich richt op tekeningen en mixed-media werk. Vanuit haar atelier creëert ze kunstwerken die de schoonheid van het alledaagse vastleggen met een oog voor detail en emotie.
+              Joanne Baan is een creatieveling die zich richt op tekeningen en mixed-media werk. Vanuit haar atelier creëert ze kunstwerken die de schoonheid van het alledaagse vastleggen met een oog voor detail en emotie.
             </p>
             <p className="font-body text-base text-muted-foreground leading-relaxed mb-8">
               Met een achtergrond in de beeldende kunst combineert Joanne traditionele technieken met een eigentijdse blik. Elk werk vertelt een verhaal — soms subtiel, soms krachtig, maar altijd persoonlijk.

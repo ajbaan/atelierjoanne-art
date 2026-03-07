@@ -5,6 +5,7 @@ interface ArtworkItem {
   id: string;
   src: string;
   title: string;
+  description: string;
 }
 
 const Gallery = () => {
